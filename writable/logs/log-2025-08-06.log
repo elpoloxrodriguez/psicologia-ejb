@@ -3294,3 +3294,175 @@ DEBUG - 2025-08-06 01:29:25 --> Returning 9 questions
 DEBUG - 2025-08-06 01:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2025-08-06 01:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 DEBUG - 2025-08-06 01:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> Model found 0 questions
+ERROR - 2025-08-06 01:45:15 --> Error in questions endpoint: No questions found in the database. Table exists but is empty.
+ERROR - 2025-08-06 01:45:15 --> #0 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(933): App\Controllers\API\InterviewController->questions()
+#1 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\InterviewController))
+#2 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Library/WebServer/Documents/codeigniter4/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /Library/WebServer/Documents/codeigniter4/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /Library/WebServer/Documents/codeigniter4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 /Library/WebServer/Documents/codeigniter4/system/rewrite.php(44): require_once('/Library/WebSer...')
+#7 {main}
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:45:15 --> Model found 0 questions
+ERROR - 2025-08-06 01:45:15 --> Error in questions endpoint: No questions found in the database. Table exists but is empty.
+ERROR - 2025-08-06 01:45:15 --> #0 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(933): App\Controllers\API\InterviewController->questions()
+#1 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\InterviewController))
+#2 /Library/WebServer/Documents/codeigniter4/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Library/WebServer/Documents/codeigniter4/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#4 /Library/WebServer/Documents/codeigniter4/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 /Library/WebServer/Documents/codeigniter4/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 /Library/WebServer/Documents/codeigniter4/system/rewrite.php(44): require_once('/Library/WebSer...')
+#7 {main}
+DEBUG - 2025-08-06 01:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:45:40 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:45:40 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:45:41 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:45:51 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:45:51 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:45:52 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:01 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:01 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:02 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:46:04 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:46:04 --> Returning 2 questions
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:04 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:46:04 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:46:04 --> Returning 2 questions
+DEBUG - 2025-08-06 01:46:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Starting interview submission
+DEBUG - 2025-08-06 01:46:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] User data: stdClass Object
+(
+    [userId] => 2
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 1
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Raw POST data: {"answers":[{"question_id":"1","answer":false,"comments":""},{"question_id":"2","answer":true,"comments":""}]}
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Database connection status: Connected
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Database name: psico_db
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:46:10 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 1
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:46:10 --> Processing 2 answers
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Starting database transaction
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Inserting interview record: {"patient_id":"2","interview_date":"2025-08-06 01:46:10"}
+DEBUG - 2025-08-06 01:46:10 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 1
+    [question_id] => 1
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:46:10
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] [A1] Successfully saved with ID: 1
+DEBUG - 2025-08-06 01:46:10 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 1
+    [question_id] => 2
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:46:10
+)
+
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] [A2] Successfully saved with ID: 2
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Transaction committed successfully
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Successfully saved 2 out of 2 answers for interview ID: 1
+DEBUG - 2025-08-06 01:46:10 --> [REQ-6892b3e2dd461] Interview submission completed successfully
+DEBUG - 2025-08-06 01:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:46:13 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:13 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:23 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:23 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:25 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:25 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:27 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:27 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:29 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:29 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:30 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:30 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:46:32 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:46:32 --> Returning 2 questions
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:46:32 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:46:32 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:46:32 --> Returning 2 questions
