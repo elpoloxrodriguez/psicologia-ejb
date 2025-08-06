@@ -95,6 +95,10 @@
             const result = await response.json();
 
             if (response.ok) {
+                // Limpiar datos de entrevista previos
+                localStorage.removeItem('interview_answers');
+                localStorage.removeItem('current_interview_page');
+                
                 // Almacenar token
                 localStorage.setItem('jwt_token', result.token);
                 document.cookie = `jwt_token=${result.token}; path=/; max-age=${60 * 60 * 24 * 30}; SameSite=Lax`;

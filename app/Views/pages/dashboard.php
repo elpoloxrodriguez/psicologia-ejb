@@ -32,7 +32,7 @@
         </div>
     <?php else: ?>
 
-        <div style="max-width: 600px; margin: 30px auto; font-family: 'Arial', sans-serif;">
+        <div style="max-width: auto; margin: 30px auto; font-family: 'Arial', sans-serif;">
     <div style="background: white; border-radius: 16px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1); overflow: hidden; border: 1px solid #e0e6ed;">
         <!-- Card Header -->
         <div style="background: linear-gradient(135deg, #4a89dc 0%, #3b7dd8 100%); padding: 25px; text-align: center; color: white;">

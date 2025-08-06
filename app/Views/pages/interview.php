@@ -52,107 +52,147 @@
         const questionsContainer = document.getElementById('questions-container');
         const interviewForm = document.getElementById('interview-form');
 
+        // Function to load questions from the API
         async function loadQuestions() {
+            const container = document.getElementById('questions-container');
+            if (!container) return;
+            
             try {
-                const response = await fetch('/api/interviews/questions', { 
-                    headers: {
-                        'Authorization': `Bearer ${token}`,
-                        'Accept': 'application/json'
-                    }
-                });
-                if (!response.ok) throw new Error('No se pudieron cargar las preguntas de la entrevista.');
-
-                const questions = await response.json();
-                questionsContainer.innerHTML = ''; // Limpiar spinner
-
-                if (questions.length === 0) {
-                    questionsContainer.innerHTML = '<p class="text-center">No hay preguntas disponibles en este momento. Por favor, inténtalo más tarde.</p>';
-                    interviewForm.querySelector('button[type="submit"]').disabled = true;
-                    return;
-                }
-
-                questions.forEach((q, index) => {
-                    // Create the question card
-                    const questionCard = document.createElement('div');
-                    questionCard.className = 'card mb-4 shadow-sm';
-                    
-                    // Build the card content
-                    let cardContent = `
-                        <div class="card-body">
-                            <h5 class="card-title">Pregunta ${index + 1}</h5>
-                            <p class="card-text">${q.text}</p>
-                            <div class="mb-3">
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input" type="radio" name="answers[${q.id}][value]" id="true-${q.id}" value="true" required>
-                                    <label class="form-check-label" for="true-${q.id}">Verdadero</label>
-                                </div>
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input" type="radio" name="answers[${q.id}][value]" id="false-${q.id}" value="false" required>
-                                    <label class="form-check-label" for="false-${q.id}">Falso</label>
-                                </div>
-                            </div>`;
-                    
-                    // Add textarea if areatext is true
-                    if (q.areatext) {
-                        cardContent += `
-                            <div class="mb-3">
-                                <label for="comments-${q.id}" class="form-label">Comentarios (opcional):</label>
-                                <textarea class="form-control" id="comments-${q.id}" name="answers[${q.id}][comments]" rows="2"></textarea>
-                            </div>`;
-                    }
-                    
-                    // Close the card
-                    cardContent += `
+                // Show loading state
+                container.innerHTML = `
+                    <div class="text-center my-5">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Cargando preguntas...</span>
                         </div>
-                    `;
-                    
-                    questionCard.innerHTML = cardContent;
-                    questionsContainer.appendChild(questionCard);
+                        <p class="mt-2">Cargando preguntas...</p>
+                    </div>`;
+                
+                // Get the token from localStorage or PHP variable
+                let authToken = localStorage.getItem('jwt_token') || token;
+                if (!authToken) {
+                    throw new Error('No se encontró el token de autenticación');
+                }
+                
+                // Clean up the token (remove any quotes or whitespace)
+                authToken = authToken.trim().replace(/^"|"$/g, '');
+                
+                const headers = new Headers();
+                headers.append('Authorization', `Bearer ${authToken}`);
+                headers.append('Accept', 'application/json');
+                
+                // Check if we need to add CSRF token (if using CodeIgniter's CSRF protection)
+                const csrfToken = document.querySelector('meta[name="X-CSRF-TOKEN"]')?.content;
+                if (csrfToken) {
+                    headers.append('X-CSRF-TOKEN', csrfToken);
+                }
+                
+                const response = await fetch('/api/interviews/questions', { 
+                    method: 'GET',
+                    headers: headers,
+                    credentials: 'include' // Important for sending cookies
+                });
+                
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    console.error('Error response:', errorText);
+                    throw new Error(`Error al cargar las preguntas (${response.status})`);
+                }
+                
+                const result = await response.json().catch(error => {
+                    console.error('Error parsing JSON response:', error);
+                    throw new Error('Error al procesar las preguntas del servidor');
                 });
 
+                if (!result.data || !Array.isArray(result.data) || result.data.length === 0) {
+                    throw new Error('No hay preguntas disponibles para la entrevista');
+                }
+                
+                allQuestions = Array.isArray(result.data) ? result.data : [];
+                
+                if (allQuestions.length === 0) {
+                    throw new Error('No se encontraron preguntas para la entrevista');
+                }
+                
+                // Clear the container before rendering
+                container.innerHTML = '';
+                
+                // Render all questions (pagination will handle the rest)
+                renderCurrentPage();
+                
+                // Initialize pagination after questions are loaded
+                setupPagination();
+                
             } catch (error) {
-                questionsContainer.innerHTML = `<div class="alert alert-danger">${error.message}</div>`;
+                console.error('Error loading questions:', error);
+                const container = document.getElementById('questions-container');
+                if (container) {
+                    container.innerHTML = `
+                        <div class="alert alert-danger">
+                            <h5>Error al cargar las preguntas</h5>
+                            <p>${error.message || 'Por favor, recarga la página o inténtalo más tarde.'}</p>
+                            <button class="btn btn-primary" onclick="window.location.reload()">Recargar</button>
+                        </div>`;
+                }
             }
         }
 
-        // Function to collect form data
         function collectFormData() {
             const answers = [];
             const processedQuestions = new Set();
+            const savedAnswers = JSON.parse(localStorage.getItem('interview_answers') || '{}');
             
-            // Get all radio buttons and textareas
-            const radioButtons = document.querySelectorAll('input[type="radio"]:checked');
-            
-            // Process radio button answers
-            radioButtons.forEach(radio => {
-                const nameParts = radio.name.match(/answers\[(\d+)\]\[value\]/);
-                if (nameParts && nameParts[1]) {
-                    const questionId = parseInt(nameParts[1]);
-                    const comment = document.querySelector(`#comment-${questionId}`)?.value || '';
-                    
+            // Add saved answers from localStorage
+            Object.entries(savedAnswers).forEach(([questionId, answer]) => {
+                if (questionId && answer && !processedQuestions.has(questionId)) {
                     answers.push({
                         question_id: questionId,
-                        answer: radio.value === 'true', // Convert to boolean
-                        comments: comment
+                        answer: answer.value === 'true',
+                        comments: answer.comment || ''
                     });
-                    
                     processedQuestions.add(questionId);
                 }
             });
             
-            // Process any remaining answers that might have been saved
-            const savedAnswers = JSON.parse(localStorage.getItem('interview_answers') || '{}');
-            Object.entries(savedAnswers).forEach(([questionId, data]) => {
-                if (!processedQuestions.has(parseInt(questionId)) && data.value) {
+            // Add answers from current page
+            document.querySelectorAll('input[type="radio"]:checked, textarea').forEach(element => {
+                const match = element.name.match(/answers\[(\d+)\]\[(value|comments)\]/);
+                if (match) {
+                    const questionId = match[1];
+                    const field = match[2];
+                    
+                    if (!processedQuestions.has(questionId)) {
+                        answers.push({
+                            question_id: questionId,
+                            answer: false,
+                            comments: ''
+                        });
+                        processedQuestions.add(questionId);
+                    }
+                    
+                    const answerIndex = answers.findIndex(a => a.question_id === questionId);
+                    if (answerIndex !== -1) {
+                        if (field === 'value') {
+                            answers[answerIndex].answer = element.value === 'true';
+                        } else if (field === 'comments') {
+                            answers[answerIndex].comments = element.value;
+                        }
+                    }
+                }
+            });
+            
+            // Ensure all questions have an answer (default to false if not answered)
+            allQuestions.forEach(question => {
+                if (!processedQuestions.has(question.id.toString())) {
                     answers.push({
-                        question_id: parseInt(questionId),
-                        answer: data.value === 'true',
-                        comments: data.comment || ''
+                        question_id: question.id.toString(),
+                        answer: false,
+                        comments: ''
                     });
                 }
             });
             
-            return answers;
+            // Sort answers by question ID for consistency
+            return answers.sort((a, b) => parseInt(a.question_id) - parseInt(b.question_id));
         }
 
         // Function to show the summary view
@@ -199,59 +239,7 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        // Handle form submission
-        interviewForm.addEventListener('submit', async function(event) {
-            event.preventDefault();
-            const button = event.target.querySelector('button[type="submit"]');
-            button.disabled = true;
-            button.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Enviando...';
-
-            // Collect form data
-            const answers = collectFormData();
-            
-            // Show summary view before final submission
-            showSummaryView(answers);
-
-            // Wait for confirmation before submitting
-            const confirmButton = document.getElementById('confirm-interview');
-            if (confirmButton) {
-                confirmButton.addEventListener('click', async function() {
-                    try {
-                        const response = await fetch('/api/interviews', {
-                            method: 'POST',
-                            headers: getAuthHeaders(),
-                            body: JSON.stringify({ answers })
-                        });
-
-                        if (!response.ok) {
-                            const errorText = await response.text();
-                            throw new Error(`Error del servidor: ${response.status} - ${errorText}`);
-                        }
-                        const result = await response.json();
-
-                        // Show success message
-                        await Swal.fire({
-                            title: '¡Entrevista enviada!',
-                            text: 'Tus respuestas han sido guardadas correctamente.',
-                            icon: 'success',
-                            confirmButtonText: 'Aceptar'
-                        });
-                        
-                        // Clear saved data
-                        localStorage.removeItem('interview_answers');
-                        localStorage.removeItem('current_interview_page');
-                        
-                        // Redirect to dashboard
-                        window.location.href = '/dashboard';
-
-                    } catch (error) {
-                        Swal.fire('Error', error.message, 'error');
-                        button.disabled = false;
-                        button.innerHTML = 'Enviar Entrevista';
-                    }
-                });
-            }
-        });
+        // Manejador de envío del formulario se ha movido más abajo para evitar duplicados
 
         loadQuestions();
     });
@@ -809,21 +797,52 @@ document.addEventListener('DOMContentLoaded', function() {
         const form = document.getElementById('interview-form');
         if (!form) return;
         
-        // Save radio buttons
+        // Get existing answers from localStorage
+        const existingAnswers = JSON.parse(localStorage.getItem('interview_answers') || '{}');
+        const newAnswers = {};
+        
+        // Save radio button answers from current page
         document.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
             const match = radio.name.match(/answers\[(\d+)\]\[value\]/);
-            if (match) {
-                saveAnswer(match[1], 'value', radio.value);
+            if (match && radio.value) {  // Only save if there's a value
+                const questionId = match[1];
+                if (!newAnswers[questionId]) newAnswers[questionId] = {};
+                newAnswers[questionId].value = radio.value;
             }
         });
         
-        // Save textareas
+        // Save textarea comments from current page
         document.querySelectorAll('textarea').forEach(textarea => {
             const match = textarea.name.match(/answers\[(\d+)\]\[comment\]/);
-            if (match) {
-                saveAnswer(match[1], 'comment', textarea.value);
+            if (match && textarea.value.trim()) {  // Only save non-empty comments
+                const questionId = match[1];
+                if (!newAnswers[questionId]) newAnswers[questionId] = {};
+                newAnswers[questionId].comment = textarea.value.trim();
             }
         });
+        
+        // Merge with existing answers, only keeping non-empty values
+        const mergedAnswers = { ...existingAnswers };
+        Object.entries(newAnswers).forEach(([questionId, answerData]) => {
+            if (!mergedAnswers[questionId]) {
+                mergedAnswers[questionId] = {};
+            }
+            Object.entries(answerData).forEach(([key, value]) => {
+                if (value !== undefined && value !== '') {
+                    mergedAnswers[questionId][key] = value;
+                }
+            });
+        });
+        
+        // Save to localStorage
+        localStorage.setItem('interview_answers', JSON.stringify(mergedAnswers));
+    }
+    
+    // Obtener preguntas de la página actual
+    function getCurrentPageQuestions() {
+        const startIndex = (currentPage - 1) * questionsPerPage;
+        const endIndex = Math.min(startIndex + questionsPerPage, allQuestions.length);
+        return allQuestions.slice(startIndex, endIndex);
     }
     
     // Function to show the summary view
@@ -931,62 +950,81 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
+        // Function to collect form data from all pages
+        function collectFormData() {
+            const answers = [];
+            const processedQuestions = new Set();
+            const savedAnswers = JSON.parse(localStorage.getItem('interview_answers') || '{}');
+            
+            // Add saved answers from localStorage
+            Object.entries(savedAnswers).forEach(([questionId, answer]) => {
+                if (questionId && answer && !processedQuestions.has(questionId)) {
+                    answers.push({
+                        question_id: questionId,
+                        answer: answer.value === 'true',
+                        comments: answer.comment || ''
+                    });
+                    processedQuestions.add(questionId);
+                }
+            });
+            
+            // Add answers from current page
+            document.querySelectorAll('input[type="radio"]:checked, textarea').forEach(element => {
+                const match = element.name.match(/answers\[(\d+)\]\[(value|comments)\]/);
+                if (match) {
+                    const questionId = match[1];
+                    const field = match[2];
+                    
+                    if (!processedQuestions.has(questionId)) {
+                        answers.push({
+                            question_id: questionId,
+                            answer: false,
+                            comments: ''
+                        });
+                        processedQuestions.add(questionId);
+                    }
+                    
+                    const answerIndex = answers.findIndex(a => a.question_id === questionId);
+                    if (answerIndex !== -1) {
+                        if (field === 'value') {
+                            answers[answerIndex].answer = element.value === 'true';
+                        } else if (field === 'comments') {
+                            answers[answerIndex].comments = element.value;
+                        }
+                    }
+                }
+            });
+            
+            // Ensure all questions have an answer (default to false if not answered)
+            allQuestions.forEach(question => {
+                if (!processedQuestions.has(question.id.toString())) {
+                    answers.push({
+                        question_id: question.id.toString(),
+                        answer: false,
+                        comments: ''
+                    });
+                }
+            });
+            
+            // Sort answers by question ID for consistency
+            return answers.sort((a, b) => parseInt(a.question_id) - parseInt(b.question_id));
+        }
+        
+        // Add submit event listener to the form
         interviewForm.addEventListener('submit', async function(event) {
             event.preventDefault();
             const button = event.target.querySelector('button[type="submit"]');
+            const originalBtnText = button.innerHTML; // Guardar el texto original del botón
             button.disabled = true;
             button.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Enviando...';
 
             try {
-                // Collect answers
-                const formData = new FormData(interviewForm);
-                const answers = [];
-                const processedQuestions = new Set();
+                // Guardar las respuestas de la página actual antes de enviar
+                saveFormData();
                 
-                // Process radio button answers
-                document.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
-                    const nameParts = radio.name.match(/answers\[(\d+)\]\[value\]/);
-                    if (nameParts && nameParts[1]) {
-                        const questionId = parseInt(nameParts[1]);
-                        const comment = document.querySelector(`#comment-${questionId}`)?.value || '';
-                        
-                        answers.push({
-                            question_id: questionId,
-                            answer: radio.value === 'true', // Convert to boolean
-                            comments: comment
-                        });
-                        
-                        processedQuestions.add(questionId);
-                    }
-                });
+                // Usar la función collectFormData que ya hemos mejorado
+                const answers = collectFormData();
                 
-                // Process any remaining answers that might have been missed
-                for (let [key, value] of formData.entries()) {
-                    const match = key.match(/answers\[(\d+)\]\[(value|comment)\]/);
-                    if (match) {
-                        const questionId = parseInt(match[1]);
-                        const fieldType = match[2];
-                        
-                        if (!processedQuestions.has(questionId)) {
-                            if (fieldType === 'value') {
-                                answers.push({
-                                    question_id: questionId,
-                                    answer: value === 'true',
-                                    comments: ''
-                                });
-                                processedQuestions.add(questionId);
-                            }
-                        } else {
-                            // Update comment if this is a comment field
-                            if (fieldType === 'comment') {
-                                const answer = answers.find(a => a.question_id === questionId);
-                                if (answer) {
-                                    answer.comments = value;
-                                }
-                            }
-                        }
-                    }
-                }
                 
                 // Submit answers
                 const headers = {
@@ -1005,7 +1043,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     headers['X-CSRF-TOKEN'] = csrfToken;
                 }
                 
-                console.log('Submitting answers:', { answers });
                 const response = await fetch('/api/interviews', {
                     method: 'POST',
                     headers,
@@ -1013,12 +1050,10 @@ document.addEventListener('DOMContentLoaded', function() {
                     credentials: 'same-origin' // Include cookies if needed
                 });
                 
-                console.log('Response status:', response.status);
                 const result = await response.json().catch(e => ({
                     status: 'error',
                     message: 'Error parsing response: ' + e.message
                 }));
-                console.log('Response data:', result);
 
                 
                 if (response.ok && result.status === 'success') {
@@ -1028,6 +1063,9 @@ document.addEventListener('DOMContentLoaded', function() {
                         title: '¡Éxito!',
                         text: result.message || 'Tu entrevista ha sido enviada correctamente.',
                         willClose: () => {
+                            // Clear interview-related localStorage items
+                            localStorage.removeItem('interview_answers');
+                            localStorage.removeItem('current_interview_page');
                             window.location.href = '/dashboard';
                         }
                     });
@@ -1186,7 +1224,17 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
     
-    // Start by checking interview status
+    // Clear all answers when the page loads
+    function clearAllAnswers() {
+        localStorage.removeItem('interview_answers');
+        localStorage.removeItem('current_interview_page');
+        // Clear all radio buttons and textareas
+        document.querySelectorAll('input[type="radio"]').forEach(radio => radio.checked = false);
+        document.querySelectorAll('textarea').forEach(ta => ta.value = '');
+    }
+
+    // Clear answers and then check interview status
+    clearAllAnswers();
     checkInterviewStatus();
 });
 </script>

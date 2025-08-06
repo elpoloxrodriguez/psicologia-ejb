@@ -82,8 +82,8 @@ echo "<script>const INTERVIEW_ID = {$interview_id};</script>";
                 
                 let answersHtml = '';
                 details.answers.forEach((answer, index) => {
-                    const answerValue = answer.answer === 'true' ? 'Verdadero' : 'Falso';
-                    const badgeClass = answer.answer === 'true' ? 'bg-success' : 'bg-danger';
+                    const answerValue = answer.answer === true ? 'Verdadero' : 'Falso';
+                    const badgeClass = answer.answer === true ? 'bg-success' : 'bg-danger';
 
                     answersHtml += `
                         <div class="card mb-3">

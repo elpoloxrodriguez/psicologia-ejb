@@ -590,14 +590,47 @@ class InterviewController extends ResourceController
             ->where('interview_answers.interview_id', $id)
             ->findAll();
 
-        // Decodificar el JSON de cada respuesta
+        // Procesar las respuestas
         $decodedAnswers = [];
         foreach ($rawAnswers as $rawAnswer) {
-            $answerData = json_decode($rawAnswer['answer_text'], true);
+            $answerText = $rawAnswer['answer_text'];
+            
+            // Verificar si la respuesta es un JSON
+            if (is_string($answerText) && (strpos($answerText, '{') === 0 || strpos($answerText, '[') === 0)) {
+                $answerData = json_decode($answerText, true);
+                
+                // Manejar diferentes formatos de respuesta
+                if (is_array($answerData)) {
+                    // Formato nuevo: {"answer":true,"comments":""}
+                    if (isset($answerData['answer'])) {
+                        $answer = $answerData['answer'];
+                        $comments = $answerData['comments'] ?? '';
+                    } 
+                    // Formato alternativo: {"value":"true","comment":""}
+                    elseif (isset($answerData['value'])) {
+                        $answer = $answerData['value'] === 'true';
+                        $comments = $answerData['comment'] ?? '';
+                    } 
+                    // Formato antiguo: solo el valor booleano
+                    else {
+                        $answer = (bool)$answerData;
+                        $comments = '';
+                    }
+                } else {
+                    // Si no es un array, usar el valor directamente
+                    $answer = (bool)$answerData;
+                    $comments = '';
+                }
+            } else {
+                // Si no es JSON, asumir que es un valor booleano directo
+                $answer = filter_var($answerText, FILTER_VALIDATE_BOOLEAN);
+                $comments = '';
+            }
+            
             $decodedAnswers[] = [
                 'question_text' => $rawAnswer['question_text'],
-                'answer'        => $answerData['answer'] ?? null,
-                'comments'      => $answerData['comments'] ?? ''
+                'answer'        => $answer,
+                'comments'      => $comments
             ];
         }
 

@@ -1,0 +1,3296 @@
+DEBUG - 2025-08-06 00:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:29:28 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:28 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:29 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Returning 9 questions
+DEBUG - 2025-08-06 00:29:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:29:29 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:29:29 --> Returning 9 questions
+DEBUG - 2025-08-06 00:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:35:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:17 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Returning 9 questions
+DEBUG - 2025-08-06 00:35:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:35:17 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:35:17 --> Returning 9 questions
+DEBUG - 2025-08-06 00:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Returning 9 questions
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:42:31 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:42:31 --> Returning 9 questions
+DEBUG - 2025-08-06 00:45:44 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Starting interview submission
+DEBUG - 2025-08-06 00:45:44 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Raw POST data: {"answers":[{"question_id":6,"answer":true,"comments":""},{"question_id":7,"answer":true,"comments":""},{"question_id":8,"answer":true,"comments":""},{"question_id":9,"answer":false,"comments":""}]}
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Database connection status: Connected
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Database name: psico_db
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 00:45:44 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 1
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 00:45:44 --> Processing 4 answers
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Starting database transaction
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 00:45:44"}
+DEBUG - 2025-08-06 00:45:44 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 25
+    [question_id] => 6
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:45:44
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] [A1] Successfully saved with ID: 41
+DEBUG - 2025-08-06 00:45:44 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 25
+    [question_id] => 7
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:45:44
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] [A2] Successfully saved with ID: 42
+DEBUG - 2025-08-06 00:45:44 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 25
+    [question_id] => 8
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:45:44
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] [A3] Successfully saved with ID: 43
+DEBUG - 2025-08-06 00:45:44 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 25
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:45:44
+)
+
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] [A4] Successfully saved with ID: 44
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Transaction committed successfully
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Successfully saved 4 out of 4 answers for interview ID: 25
+DEBUG - 2025-08-06 00:45:44 --> [REQ-6892a5b82d162] Interview submission completed successfully
+DEBUG - 2025-08-06 00:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:45:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:45:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:45:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:46:28 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:28 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:30 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:30 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:31 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:31 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:46:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:55 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:55 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:55 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Returning 9 questions
+DEBUG - 2025-08-06 00:46:55 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:55 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:46:55 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:46:55 --> Returning 9 questions
+DEBUG - 2025-08-06 00:47:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Starting interview submission
+DEBUG - 2025-08-06 00:47:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 1
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Raw POST data: {"answers":[{"question_id":6,"answer":false,"comments":""},{"question_id":7,"answer":true,"comments":""},{"question_id":8,"answer":false,"comments":""},{"question_id":9,"answer":true,"comments":""}]}
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Database connection status: Connected
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Database name: psico_db
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 00:47:11 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 1
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 00:47:11 --> Processing 4 answers
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Starting database transaction
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 00:47:11"}
+DEBUG - 2025-08-06 00:47:11 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 26
+    [question_id] => 6
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:47:11
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] [A1] Successfully saved with ID: 45
+DEBUG - 2025-08-06 00:47:11 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 26
+    [question_id] => 7
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:47:11
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] [A2] Successfully saved with ID: 46
+DEBUG - 2025-08-06 00:47:11 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 26
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:47:11
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] [A3] Successfully saved with ID: 47
+DEBUG - 2025-08-06 00:47:11 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 26
+    [question_id] => 9
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:47:11
+)
+
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] [A4] Successfully saved with ID: 48
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Transaction committed successfully
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Successfully saved 4 out of 4 answers for interview ID: 26
+DEBUG - 2025-08-06 00:47:11 --> [REQ-6892a60f54d40] Interview submission completed successfully
+DEBUG - 2025-08-06 00:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:47:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:47:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:47:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:47:51 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:47:51 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:47:52 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:47:52 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Returning 9 questions
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:48:02 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:48:02 --> Returning 9 questions
+DEBUG - 2025-08-06 00:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:49:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:41 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:41 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:41 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Returning 9 questions
+DEBUG - 2025-08-06 00:49:41 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:41 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:49:41 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:49:41 --> Returning 9 questions
+DEBUG - 2025-08-06 00:50:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Starting interview submission
+DEBUG - 2025-08-06 00:50:02 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 1
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Raw POST data: {"answers":[{"question_id":6,"answer":false,"comments":""},{"question_id":7,"answer":true,"comments":""},{"question_id":8,"answer":false,"comments":""},{"question_id":9,"answer":true,"comments":""}]}
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Database connection status: Connected
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Database name: psico_db
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 00:50:02 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 1
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 00:50:02 --> Processing 4 answers
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Starting database transaction
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 00:50:02"}
+DEBUG - 2025-08-06 00:50:02 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 27
+    [question_id] => 6
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:50:02
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] [A1] Successfully saved with ID: 49
+DEBUG - 2025-08-06 00:50:02 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 27
+    [question_id] => 7
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:50:02
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] [A2] Successfully saved with ID: 50
+DEBUG - 2025-08-06 00:50:02 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 27
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:50:02
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] [A3] Successfully saved with ID: 51
+DEBUG - 2025-08-06 00:50:02 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 27
+    [question_id] => 9
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:50:02
+)
+
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] [A4] Successfully saved with ID: 52
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Transaction committed successfully
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Successfully saved 4 out of 4 answers for interview ID: 27
+DEBUG - 2025-08-06 00:50:02 --> [REQ-6892a6babd41d] Interview submission completed successfully
+DEBUG - 2025-08-06 00:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:50:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:34 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:34 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:36 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:36 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:38 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:38 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Returning 9 questions
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:50:48 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:50:48 --> Returning 9 questions
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Returning 9 questions
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Returning 9 questions
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:54:54 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:54:54 --> Returning 9 questions
+DEBUG - 2025-08-06 00:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Returning 9 questions
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Returning 9 questions
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:11 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:55:11 --> Returning 9 questions
+DEBUG - 2025-08-06 00:55:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Starting interview submission
+DEBUG - 2025-08-06 00:55:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 1
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Raw POST data: {"answers":[{"question_id":6,"answer":true,"comments":""},{"question_id":7,"answer":true,"comments":""},{"question_id":8,"answer":true,"comments":""},{"question_id":9,"answer":true,"comments":""}]}
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Database connection status: Connected
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Database name: psico_db
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 00:55:32 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 1
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 1
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 00:55:32 --> Processing 4 answers
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Starting database transaction
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 00:55:32"}
+DEBUG - 2025-08-06 00:55:32 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 28
+    [question_id] => 6
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:55:32
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] [A1] Successfully saved with ID: 53
+DEBUG - 2025-08-06 00:55:32 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 28
+    [question_id] => 7
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:55:32
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] [A2] Successfully saved with ID: 54
+DEBUG - 2025-08-06 00:55:32 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 28
+    [question_id] => 8
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:55:32
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] [A3] Successfully saved with ID: 55
+DEBUG - 2025-08-06 00:55:32 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 28
+    [question_id] => 9
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 00:55:32
+)
+
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] [A4] Successfully saved with ID: 56
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Transaction committed successfully
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Successfully saved 4 out of 4 answers for interview ID: 28
+DEBUG - 2025-08-06 00:55:32 --> [REQ-6892a8041de32] Interview submission completed successfully
+DEBUG - 2025-08-06 00:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:55:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:36 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:55:36 --> Returning 9 questions
+DEBUG - 2025-08-06 00:55:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:55:44 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:55:44 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:55:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:55:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:56:59 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:56:59 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:57:01 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:57:01 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:57:03 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:57:03 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 00:57:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:15 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:57:15 --> Returning 9 questions
+DEBUG - 2025-08-06 00:57:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:15 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:16 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Returning 9 questions
+DEBUG - 2025-08-06 00:57:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:16 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:57:16 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:57:16 --> Returning 9 questions
+DEBUG - 2025-08-06 00:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:19 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:19 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:28 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:28 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:29 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 00:59:29 --> Returning 9 questions
+DEBUG - 2025-08-06 00:59:45 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Starting interview submission
+DEBUG - 2025-08-06 00:59:45 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Raw POST data: {"answers":[{"question_id":6,"answer":false,"comments":""},{"question_id":7,"answer":false,"comments":""},{"question_id":8,"answer":false,"comments":""},{"question_id":9,"answer":false,"comments":""}]}
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Database connection status: Connected
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Database name: psico_db
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 00:59:45 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 00:59:45 --> Processing 4 answers
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Starting database transaction
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 00:59:45"}
+DEBUG - 2025-08-06 00:59:45 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 29
+    [question_id] => 6
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:59:45
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] [A1] Successfully saved with ID: 57
+DEBUG - 2025-08-06 00:59:45 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 29
+    [question_id] => 7
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:59:45
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] [A2] Successfully saved with ID: 58
+DEBUG - 2025-08-06 00:59:45 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 29
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:59:45
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] [A3] Successfully saved with ID: 59
+DEBUG - 2025-08-06 00:59:45 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 29
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 00:59:45
+)
+
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] [A4] Successfully saved with ID: 60
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Transaction committed successfully
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Successfully saved 4 out of 4 answers for interview ID: 29
+DEBUG - 2025-08-06 00:59:45 --> [REQ-6892a901d68a4] Interview submission completed successfully
+DEBUG - 2025-08-06 00:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:01:42 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:01:42 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:01:42 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:01:42 --> Returning 9 questions
+DEBUG - 2025-08-06 01:01:42 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:01:42 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:01:49 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:01:49 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:01:51 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:01:51 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:01:53 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:01:53 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:00 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:00 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:36 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:02:36 --> Returning 9 questions
+DEBUG - 2025-08-06 01:02:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Starting interview submission
+DEBUG - 2025-08-06 01:02:54 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Raw POST data: {"answers":[{"question_id":6,"answer":false,"comments":""},{"question_id":7,"answer":false,"comments":""},{"question_id":8,"answer":false,"comments":""},{"question_id":9,"answer":false,"comments":""}]}
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Database connection status: Connected
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Database name: psico_db
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:02:54 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 6
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 7
+            [answer] => 
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:02:54 --> Processing 4 answers
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Starting database transaction
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 01:02:54"}
+DEBUG - 2025-08-06 01:02:54 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 30
+    [question_id] => 6
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:02:54
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] [A1] Successfully saved with ID: 61
+DEBUG - 2025-08-06 01:02:54 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 30
+    [question_id] => 7
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:02:54
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] [A2] Successfully saved with ID: 62
+DEBUG - 2025-08-06 01:02:54 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 30
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:02:54
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] [A3] Successfully saved with ID: 63
+DEBUG - 2025-08-06 01:02:54 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 30
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:02:54
+)
+
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] [A4] Successfully saved with ID: 64
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Transaction committed successfully
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Successfully saved 4 out of 4 answers for interview ID: 30
+DEBUG - 2025-08-06 01:02:54 --> [REQ-6892a9be03ea2] Interview submission completed successfully
+DEBUG - 2025-08-06 01:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:03:17 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:17 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:20 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:20 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:20 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:20 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:03:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:37 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:03:37 --> Returning 9 questions
+DEBUG - 2025-08-06 01:03:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:38 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Returning 9 questions
+DEBUG - 2025-08-06 01:03:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:03:38 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:03:38 --> Returning 9 questions
+DEBUG - 2025-08-06 01:10:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:50 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:10:50 --> Returning 9 questions
+DEBUG - 2025-08-06 01:10:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:10:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:10:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:10:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:11:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:24 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:11:24 --> Returning 9 questions
+DEBUG - 2025-08-06 01:11:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:25 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Returning 9 questions
+DEBUG - 2025-08-06 01:11:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:11:25 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:11:25 --> Returning 9 questions
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Returning 9 questions
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Returning 9 questions
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:12:50 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:12:50 --> Returning 9 questions
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:13:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:52 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Returning 9 questions
+DEBUG - 2025-08-06 01:13:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:13:52 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:13:52 --> Returning 9 questions
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Returning 9 questions
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:14:38 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:14:38 --> Returning 9 questions
+DEBUG - 2025-08-06 01:15:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:24 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Returning 9 questions
+DEBUG - 2025-08-06 01:15:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:15:24 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:15:24 --> Returning 9 questions
+DEBUG - 2025-08-06 01:17:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:10 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:11 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Returning 9 questions
+DEBUG - 2025-08-06 01:17:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:11 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:17:11 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:17:11 --> Returning 9 questions
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Returning 9 questions
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:14 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:18:14 --> Returning 9 questions
+DEBUG - 2025-08-06 01:18:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Starting interview submission
+DEBUG - 2025-08-06 01:18:17 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 3
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 4
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 5
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Raw POST data: {"answers":[{"question_id":"1","answer":true,"comments":""},{"question_id":"2","answer":true,"comments":""},{"question_id":"3","answer":true,"comments":""},{"question_id":"4","answer":true,"comments":""},{"question_id":"5","answer":true,"comments":""},{"question_id":"6","answer":true,"comments":""},{"question_id":"7","answer":true,"comments":""},{"question_id":"8","answer":true,"comments":""},{"question_id":"9","answer":false,"comments":""}]}
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Database connection status: Connected
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Database name: psico_db
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:18:17 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 3
+            [answer] => 1
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 4
+            [answer] => 1
+            [comments] => 
+        )
+
+    [4] => Array
+        (
+            [question_id] => 5
+            [answer] => 1
+            [comments] => 
+        )
+
+    [5] => Array
+        (
+            [question_id] => 6
+            [answer] => 1
+            [comments] => 
+        )
+
+    [6] => Array
+        (
+            [question_id] => 7
+            [answer] => 1
+            [comments] => 
+        )
+
+    [7] => Array
+        (
+            [question_id] => 8
+            [answer] => 1
+            [comments] => 
+        )
+
+    [8] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:18:17 --> Processing 9 answers
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Starting database transaction
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 01:18:17"}
+DEBUG - 2025-08-06 01:18:17 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 1
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A1] Successfully saved with ID: 65
+DEBUG - 2025-08-06 01:18:17 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 2
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A2] Successfully saved with ID: 66
+DEBUG - 2025-08-06 01:18:17 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 3
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 3
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A3] Successfully saved with ID: 67
+DEBUG - 2025-08-06 01:18:17 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 4
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 4
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A4] Successfully saved with ID: 68
+DEBUG - 2025-08-06 01:18:17 --> [Answer 4] Processing answer: Array
+(
+    [question_id] => 5
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 4] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 5
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A5] Successfully saved with ID: 69
+DEBUG - 2025-08-06 01:18:17 --> [Answer 5] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 5] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 6
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A6] Successfully saved with ID: 70
+DEBUG - 2025-08-06 01:18:17 --> [Answer 6] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 6] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 7
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A7] Successfully saved with ID: 71
+DEBUG - 2025-08-06 01:18:17 --> [Answer 7] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 7] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 8
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A8] Successfully saved with ID: 72
+DEBUG - 2025-08-06 01:18:17 --> [Answer 8] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [Answer 8] Attempting to insert: Array
+(
+    [interview_id] => 31
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:18:17
+)
+
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] [A9] Successfully saved with ID: 73
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Transaction committed successfully
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Successfully saved 9 out of 9 answers for interview ID: 31
+DEBUG - 2025-08-06 01:18:17 --> [REQ-6892ad5935ef9] Interview submission completed successfully
+DEBUG - 2025-08-06 01:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:18:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:18:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:18:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:18:50 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:18:50 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:20:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:20:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:21:36 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:36 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:41 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:41 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:21:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:28 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:28 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:45 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:45 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:49 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:49 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:52 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:52 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:53 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:53 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:22:57 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:57 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:58 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Returning 9 questions
+DEBUG - 2025-08-06 01:22:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:58 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:22:58 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:22:58 --> Returning 9 questions
+DEBUG - 2025-08-06 01:23:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Starting interview submission
+DEBUG - 2025-08-06 01:23:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 3
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 4
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 5
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Raw POST data: {"answers":[{"question_id":"1","answer":false,"comments":""},{"question_id":"2","answer":true,"comments":""},{"question_id":"3","answer":false,"comments":""},{"question_id":"4","answer":true,"comments":""},{"question_id":"5","answer":false,"comments":""},{"question_id":"6","answer":true,"comments":""},{"question_id":"7","answer":false,"comments":""},{"question_id":"8","answer":true,"comments":""},{"question_id":"9","answer":false,"comments":""}]}
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Database connection status: Connected
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Database name: psico_db
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:23:18 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 3
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 4
+            [answer] => 1
+            [comments] => 
+        )
+
+    [4] => Array
+        (
+            [question_id] => 5
+            [answer] => 
+            [comments] => 
+        )
+
+    [5] => Array
+        (
+            [question_id] => 6
+            [answer] => 1
+            [comments] => 
+        )
+
+    [6] => Array
+        (
+            [question_id] => 7
+            [answer] => 
+            [comments] => 
+        )
+
+    [7] => Array
+        (
+            [question_id] => 8
+            [answer] => 1
+            [comments] => 
+        )
+
+    [8] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:23:18 --> Processing 9 answers
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Starting database transaction
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 01:23:18"}
+DEBUG - 2025-08-06 01:23:18 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 1
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A1] Successfully saved with ID: 74
+DEBUG - 2025-08-06 01:23:18 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 2
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A2] Successfully saved with ID: 75
+DEBUG - 2025-08-06 01:23:18 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 3
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 3
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A3] Successfully saved with ID: 76
+DEBUG - 2025-08-06 01:23:18 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 4
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 4
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A4] Successfully saved with ID: 77
+DEBUG - 2025-08-06 01:23:18 --> [Answer 4] Processing answer: Array
+(
+    [question_id] => 5
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 4] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 5
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A5] Successfully saved with ID: 78
+DEBUG - 2025-08-06 01:23:18 --> [Answer 5] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 5] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 6
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A6] Successfully saved with ID: 79
+DEBUG - 2025-08-06 01:23:18 --> [Answer 6] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 6] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 7
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A7] Successfully saved with ID: 80
+DEBUG - 2025-08-06 01:23:18 --> [Answer 7] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 7] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 8
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A8] Successfully saved with ID: 81
+DEBUG - 2025-08-06 01:23:18 --> [Answer 8] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [Answer 8] Attempting to insert: Array
+(
+    [interview_id] => 32
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:23:18
+)
+
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] [A9] Successfully saved with ID: 82
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Transaction committed successfully
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Successfully saved 9 out of 9 answers for interview ID: 32
+DEBUG - 2025-08-06 01:23:18 --> [REQ-6892ae86c6679] Interview submission completed successfully
+DEBUG - 2025-08-06 01:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:23:22 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:22 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:23 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:24:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:21 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:21 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:21 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:21 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:25 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:25 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:26 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:26 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:29 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:29 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:31 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:31 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:32 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:32 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:24:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:34 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:35 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:35 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:35 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Returning 9 questions
+DEBUG - 2025-08-06 01:24:35 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:35 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:24:35 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:24:35 --> Returning 9 questions
+DEBUG - 2025-08-06 01:26:07 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:07 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:08 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Returning 9 questions
+DEBUG - 2025-08-06 01:26:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:08 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:08 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:26:08 --> Returning 9 questions
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Returning 9 questions
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:12 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:26:12 --> Returning 9 questions
+DEBUG - 2025-08-06 01:26:33 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Starting interview submission
+DEBUG - 2025-08-06 01:26:33 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 3
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 4
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 5
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 1
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Raw POST data: {"answers":[{"question_id":"1","answer":true,"comments":""},{"question_id":"2","answer":true,"comments":""},{"question_id":"3","answer":false,"comments":""},{"question_id":"4","answer":false,"comments":""},{"question_id":"5","answer":true,"comments":""},{"question_id":"6","answer":true,"comments":""},{"question_id":"7","answer":false,"comments":""},{"question_id":"8","answer":false,"comments":""},{"question_id":"9","answer":true,"comments":""}]}
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Database connection status: Connected
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Database name: psico_db
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:26:33 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 1
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 3
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 4
+            [answer] => 
+            [comments] => 
+        )
+
+    [4] => Array
+        (
+            [question_id] => 5
+            [answer] => 1
+            [comments] => 
+        )
+
+    [5] => Array
+        (
+            [question_id] => 6
+            [answer] => 1
+            [comments] => 
+        )
+
+    [6] => Array
+        (
+            [question_id] => 7
+            [answer] => 
+            [comments] => 
+        )
+
+    [7] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [8] => Array
+        (
+            [question_id] => 9
+            [answer] => 1
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:26:33 --> Processing 9 answers
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Starting database transaction
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 01:26:33"}
+DEBUG - 2025-08-06 01:26:33 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 1
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A1] Successfully saved with ID: 83
+DEBUG - 2025-08-06 01:26:33 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 2
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A2] Successfully saved with ID: 84
+DEBUG - 2025-08-06 01:26:33 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 3
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 3
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A3] Successfully saved with ID: 85
+DEBUG - 2025-08-06 01:26:33 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 4
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 4
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A4] Successfully saved with ID: 86
+DEBUG - 2025-08-06 01:26:33 --> [Answer 4] Processing answer: Array
+(
+    [question_id] => 5
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 4] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 5
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A5] Successfully saved with ID: 87
+DEBUG - 2025-08-06 01:26:33 --> [Answer 5] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 5] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 6
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A6] Successfully saved with ID: 88
+DEBUG - 2025-08-06 01:26:33 --> [Answer 6] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 6] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 7
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A7] Successfully saved with ID: 89
+DEBUG - 2025-08-06 01:26:33 --> [Answer 7] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 7] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A8] Successfully saved with ID: 90
+DEBUG - 2025-08-06 01:26:33 --> [Answer 8] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [Answer 8] Attempting to insert: Array
+(
+    [interview_id] => 33
+    [question_id] => 9
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:26:33
+)
+
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] [A9] Successfully saved with ID: 91
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Transaction committed successfully
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Successfully saved 9 out of 9 answers for interview ID: 33
+DEBUG - 2025-08-06 01:26:33 --> [REQ-6892af496cecd] Interview submission completed successfully
+DEBUG - 2025-08-06 01:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:26:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:38 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:43 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:43 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:44 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:44 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:48 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:54 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:54 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:55 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:55 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:26:59 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:26:59 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:27:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:27:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:27:00 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Returning 9 questions
+DEBUG - 2025-08-06 01:27:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:27:00 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:27:00 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:27:00 --> Returning 9 questions
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Returning 9 questions
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:06 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:28:06 --> Returning 9 questions
+DEBUG - 2025-08-06 01:28:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Starting interview submission
+DEBUG - 2025-08-06 01:28:32 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] User data: stdClass Object
+(
+    [userId] => 4
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 3
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 4
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 5
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 6
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 7
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 8
+                    [answer] => 
+                    [comments] => 
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 9
+                    [answer] => 
+                    [comments] => 
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Raw POST data: {"answers":[{"question_id":"1","answer":true,"comments":""},{"question_id":"2","answer":false,"comments":""},{"question_id":"3","answer":false,"comments":""},{"question_id":"4","answer":true,"comments":""},{"question_id":"5","answer":true,"comments":""},{"question_id":"6","answer":false,"comments":""},{"question_id":"7","answer":false,"comments":""},{"question_id":"8","answer":false,"comments":""},{"question_id":"9","answer":false,"comments":""}]}
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Database connection status: Connected
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Database name: psico_db
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-06 01:28:32 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 
+            [comments] => 
+        )
+
+    [2] => Array
+        (
+            [question_id] => 3
+            [answer] => 
+            [comments] => 
+        )
+
+    [3] => Array
+        (
+            [question_id] => 4
+            [answer] => 1
+            [comments] => 
+        )
+
+    [4] => Array
+        (
+            [question_id] => 5
+            [answer] => 1
+            [comments] => 
+        )
+
+    [5] => Array
+        (
+            [question_id] => 6
+            [answer] => 
+            [comments] => 
+        )
+
+    [6] => Array
+        (
+            [question_id] => 7
+            [answer] => 
+            [comments] => 
+        )
+
+    [7] => Array
+        (
+            [question_id] => 8
+            [answer] => 
+            [comments] => 
+        )
+
+    [8] => Array
+        (
+            [question_id] => 9
+            [answer] => 
+            [comments] => 
+        )
+
+)
+
+DEBUG - 2025-08-06 01:28:32 --> Processing 9 answers
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Starting database transaction
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Inserting interview record: {"patient_id":"4","interview_date":"2025-08-06 01:28:32"}
+DEBUG - 2025-08-06 01:28:32 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 1
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A1] Successfully saved with ID: 92
+DEBUG - 2025-08-06 01:28:32 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 2
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A2] Successfully saved with ID: 93
+DEBUG - 2025-08-06 01:28:32 --> [Answer 2] Processing answer: Array
+(
+    [question_id] => 3
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 2] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 3
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A3] Successfully saved with ID: 94
+DEBUG - 2025-08-06 01:28:32 --> [Answer 3] Processing answer: Array
+(
+    [question_id] => 4
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 3] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 4
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A4] Successfully saved with ID: 95
+DEBUG - 2025-08-06 01:28:32 --> [Answer 4] Processing answer: Array
+(
+    [question_id] => 5
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 4] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 5
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A5] Successfully saved with ID: 96
+DEBUG - 2025-08-06 01:28:32 --> [Answer 5] Processing answer: Array
+(
+    [question_id] => 6
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 5] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 6
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A6] Successfully saved with ID: 97
+DEBUG - 2025-08-06 01:28:32 --> [Answer 6] Processing answer: Array
+(
+    [question_id] => 7
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 6] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 7
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A7] Successfully saved with ID: 98
+DEBUG - 2025-08-06 01:28:32 --> [Answer 7] Processing answer: Array
+(
+    [question_id] => 8
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 7] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 8
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A8] Successfully saved with ID: 99
+DEBUG - 2025-08-06 01:28:32 --> [Answer 8] Processing answer: Array
+(
+    [question_id] => 9
+    [answer] => 
+    [comments] => 
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [Answer 8] Attempting to insert: Array
+(
+    [interview_id] => 34
+    [question_id] => 9
+    [answer_text] => {"answer":false,"comments":""}
+    [created_at] => 2025-08-06 01:28:32
+)
+
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] [A9] Successfully saved with ID: 100
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Transaction committed successfully
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Successfully saved 9 out of 9 answers for interview ID: 34
+DEBUG - 2025-08-06 01:28:32 --> [REQ-6892afc0d1b18] Interview submission completed successfully
+DEBUG - 2025-08-06 01:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:28:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:36 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:37 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:43 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:43 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:45 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:45 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-06 01:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:28:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:50 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:28:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:51 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:28:51 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:28:51 --> Returning 9 questions
+DEBUG - 2025-08-06 01:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Returning 9 questions
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-06 01:29:25 --> Question 1 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 2 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 3 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 4 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 5 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 6 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 7 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 8 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Question 9 has areatext enabled
+DEBUG - 2025-08-06 01:29:25 --> Returning 9 questions
+DEBUG - 2025-08-06 01:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-06 01:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

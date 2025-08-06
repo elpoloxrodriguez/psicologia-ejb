@@ -1,53 +1,191 @@
-# CodeIgniter 4 Framework
+# Sistema de Entrevista Psicológica - Ejército Bolivariano de Venezuela
 
-## What is CodeIgniter?
+![Banner del Sistema](https://via.placeholder.com/1200x400?text=Sistema+de+Entrevista+Psicológica)
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+## 🎯 Descripción
 
-This repository holds the distributable version of the framework.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+Sistema de gestión de entrevistas psicológicas desarrollado para el Ejército Bolivariano de Venezuela. Esta plataforma permite a los profesionales de la psicología realizar evaluaciones, gestionar pacientes y generar informes detallados de manera eficiente.
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+## ✨ Características Principales
 
-You can read the [user guide](https://codeigniter.com/user_guide/)
-corresponding to the latest version of the framework.
+- **Gestión de Usuarios**: Diferentes roles (administrador, psicólogo, etc.)
+- **Gestión de Pacientes**: Registro y seguimiento de pacientes
+- **Entrevistas Psicológicas**: Realización de evaluaciones psicológicas estructuradas
+- **Banco de Preguntas**: Gestión de preguntas y categorías
+- **Reportes**: Generación de informes detallados
+- **API RESTful**: Interfaz para integración con otros sistemas
+- **Autenticación JWT**: Seguridad robusta para las comunicaciones
 
-## Important Change with index.php
+## 🚀 Tecnologías Utilizadas
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+- **Backend**: PHP 8.1+
+- **Framework**: CodeIgniter 4
+- **Base de Datos**: MySQL
+- **Autenticación**: JWT (JSON Web Tokens)
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
+- **Herramientas**: Composer, Git
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+## 📝 Requisitos del Sistema
 
-**Please** read the user guide for a better explanation of how CI4 works!
+- PHP 8.1 o superior
+- MySQL 5.7 o superior
+- Servidor web (Apache/Nginx) con mod_rewrite habilitado
+- Extensión intl de PHP
+- Extensión mbstring de PHP
+- Composer (para la gestión de dependencias)
 
-## Repository Management
+## 🔧 Instalación
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+1. Clonar el repositorio:
+   ```bash
+   git clone [URL_DEL_REPOSITORIO]
+   cd nombre-del-proyecto
+   ```
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
+2. Instalar dependencias:
+   ```bash
+   composer install
+   ```
 
-## Contributing
+3. Configurar la base de datos:
+   - Crear una base de datos MySQL
+   - Importar el archivo SQL inicial (si existe)
 
-We welcome contributions from the community.
+4. Configurar el archivo `.env`:
+   ```env
+   database.default.hostname = localhost
+   database.default.database = nombre_base_datos
+   database.default.username = usuario
+   database.default.password = contraseña
+   database.default.DBDriver = MySQLi
+   
+   app.baseURL = 'http://localhost:8080/'
+   ```
 
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
+5. Configurar los permisos de los directorios:
+   ```bash
+   chmod -R 755 writable/
+   ```
 
-## Server Requirements
+6. Iniciar el servidor de desarrollo:
+   ```bash
+   php spark serve
+   ```
 
-PHP version 8.1 or higher is required, with the following extensions installed:
+## 🔐 API Endpoints
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
+### Autenticación
+- `POST /api/auth/register` - Registrar nuevo usuario
+- `POST /api/auth/login` - Iniciar sesión
 
-> [!WARNING]
+### Preguntas
+- `GET /api/questions` - Listar todas las preguntas
+- `POST /api/questions` - Crear nueva pregunta
+- `GET /api/questions/(:segment)` - Ver detalle de pregunta
+- `PUT /api/questions/(:segment)` - Actualizar pregunta
+- `DELETE /api/questions/(:segment)` - Eliminar pregunta
+
+### Entrevistas
+- `GET /api/interviews` - Listar entrevistas
+- `GET /api/interviews/check` - Verificar estado de entrevista
+- `GET /api/interviews/questions` - Obtener preguntas para entrevista
+- `POST /api/interviews` - Crear nueva entrevista
+- `GET /api/interviews/(:segment)` - Ver detalle de entrevista
+- `DELETE /api/interviews/(:segment)` - Eliminar entrevista
+
+### Usuarios
+- `GET /api/users` - Listar usuarios (solo admin)
+- `POST /api/users` - Crear usuario (solo admin)
+- `GET /api/users/(:segment)` - Ver detalle de usuario
+- `PUT /api/users/(:segment)` - Actualizar usuario
+- `DELETE /api/users/(:segment)` - Eliminar usuario (solo admin)
+
+### Pacientes
+- `GET /api/patients` - Listar pacientes
+- `POST /api/patients` - Crear paciente
+- `GET /api/patients/(:segment)` - Ver detalle de paciente
+- `PUT /api/patients/(:segment)` - Actualizar paciente
+- `DELETE /api/patients/(:segment)` - Eliminar paciente
+
+## 📝 Uso de la API
+
+### Autenticación
+
+1. **Login**
+   ```http
+   POST /api/auth/login
+   Content-Type: application/json
+   
+   {
+     "email": "usuario@ejemplo.com",
+     "password": "contraseña"
+   }
+   ```
+   
+   Respuesta exitosa:
+   ```json
+   {
+     "status": true,
+     "message": "Inicio de sesión exitoso",
+     "data": {
+       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...",
+       "user": {
+         "id": 1,
+         "name": "Nombre Usuario",
+         "email": "usuario@ejemplo.com",
+         "role": "psychologist"
+       }
+     }
+   }
+   ```
+
+2. **Uso del token**
+   Incluir el token en el encabezado de las solicitudes:
+   ```
+   Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
+   ```
+
+## 📊 Estructura del Proyecto
+
+```
+app/
+├── Config/           # Archivos de configuración
+├── Controllers/      # Controladores de la aplicación
+│   └── API/          # Controladores de la API
+├── Filters/          # Filtros de autenticación
+├── Helpers/          # Funciones auxiliares
+├── Models/           # Modelos de la base de datos
+├── Views/            # Vistas de la aplicación
+public/               # Archivos públicos
+system/               # Núcleo de CodeIgniter
+writable/             # Archivos generados
+```
+
+## 📄 Licencia
+
+Este proyecto es propiedad del Ejército Bolivariano de Venezuela y Bunker Technologies Solutions C.A.
+
+## 📞 Contacto
+
+- **Desarrollador Principal**: My. Andres Rodriguez Duran
+- **Email**: elpoloxrodriguez@gmail.com
+- **Teléfono**: +58 0412-9967096
+
+### Bunker Technologies Solutions C.A.
+- **Sitio Web**: [bunkertechsolutions.com](https://bunkertechsolutions.com)
+- **Email**: bunkertechnologiessolutions@gmail.com
+- **Teléfono**: +58 0412-2602101
+- **RIF**: J-505619691
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, lea las pautas de contribución antes de enviar cambios.
+
+## 📌 Notas Adicionales
+
+- Este sistema está diseñado para uso exclusivo del Ejército Bolivariano de Venezuela.
+- Se recomienda realizar copias de seguridad periódicas de la base de datos.
+- Para problemas técnicos, por favor contactar al equipo de soporte.
 > - The end of life date for PHP 7.4 was November 28, 2022.
 > - The end of life date for PHP 8.0 was November 26, 2023.
 > - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
