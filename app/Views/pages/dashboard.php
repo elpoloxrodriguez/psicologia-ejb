@@ -4,21 +4,200 @@
 
 <!-- Admin Dashboard -->
 <div id="admin-dashboard" class="d-none">
-    <h3>Panel de Administrador</h3>
-    <p>Aquí puedes gestionar usuarios, psicólogos y ver todas las entrevistas.</p>
-    <a href="/users-management" class="btn btn-primary me-2">Gestionar Usuarios</a>
-    <a href="/interviews" class="btn btn-secondary">Ver Entrevistas Realizadas</a>
-    <!-- Contenido del admin -->
+    <div class="welcome-container p-5 rounded-4" style="background: linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%); border: none; box-shadow: 0 10px 30px rgba(78, 115, 223, 0.15);">
+        <div class="welcome-header text-center mb-5">
+            <h3 class="text-dark font-weight-bold mb-3" style="font-size: 1.8rem; letter-spacing: -0.5px;">
+                ¡Bienvenido/a al Sistema Psicológico!
+            </h3>
+            <p class="text-muted" style="font-size: 1.1rem;">Estimado/a Administrador/a</p>
+        </div>
+
+        <div class="welcome-content">
+            <p class="mb-4 text-center" style="font-size: 1.1rem; line-height: 1.6; color: #4a5568;">
+                Es un honor darle la bienvenida al <span class="text-primary font-weight-bold">Panel Especializado</span>, diseñado para optimizar su trabajo clínico y garantizar la mejor atención a nuestros beneficiarios.
+            </p>
+            
+            <div class="features-list mb-5">
+                <div class="row">
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-clipboard-list text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Gestión de entrevistas</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Organice y adapte el banco de preguntas según las necesidades de cada evaluación psicológica.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-chart-line text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Análisis de resultados</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Acceda a informes detallados y seguimiento del historial psicológico de los pacientes.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-lock text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Seguridad garantizada</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Sistema protegido con autenticación avanzada y estrictos controles de acceso.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-user-shield text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Confidencialidad</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Protección absoluta de los datos sensibles de los pacientes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="important-notes p-4 mb-5 rounded-3" style="background: linear-gradient(135deg, #fff8f0 0%, #fff3e8 100%); border-left: 4px solid #ff9f43;">
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fas fa-exclamation-circle mr-3" style="font-size: 1.5rem; color: #ff9f43;"></i>
+                    <h5 class="mb-0 text-dark">Aviso importante</h5>
+                </div>
+                <div class="pl-4">
+                    <div class="d-flex mb-2">
+                        <i class="fas fa-circle mr-2 mt-1" style="font-size: 0.5rem; color: #ff9f43;"></i>
+                        <p class="mb-0" style="color: #4a5568;">Este sistema es de uso exclusivo para personal autorizado del <strong>Ejército Bolivariano de Venezuela</strong></p>
+                    </div>
+                    <div class="d-flex">
+                        <i class="fas fa-circle mr-2 mt-1" style="font-size: 0.5rem; color: #ff9f43;"></i>
+                        <p class="mb-0" style="color: #4a5568;">Mantenga sus credenciales en un lugar seguro y cambie su contraseña periódicamente</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-message text-center p-4 rounded-3" style="background: linear-gradient(135deg, #4e73df 0%, #224abe 100%); color: white;">
+                <p class="mb-3" style="font-size: 1.1rem;">¡Gracias por su compromiso con la salud psicológica de nuestra institución!</p>
+                <div class="d-flex justify-content-center">
+                    <div class="mr-4">
+                        <i class="fas fa-shield-alt mr-2"></i>
+                        <span>Comandancia General del Ejército Bolivariano de Venezuela</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Contenido adicional del panel del psicólogo -->
 </div>
 
 <!-- Psychologist Dashboard -->
 <div id="psychologist-dashboard" class="d-none">
-    <h3>Panel de Psicólogo</h3>
-    <p>Aquí puedes gestionar las preguntas de las entrevistas y ver los resultados de los pacientes.</p>
-    <a href="/patients-management" class="btn btn-info">Gestionar Pacientes</a>
-    <a href="/questions-management" class="btn btn-primary me-2">Gestionar Preguntas</a>
-    <a href="/interviews" class="btn btn-secondary">Ver Entrevistas Realizadas</a>
-    <!-- Contenido del psicólogo -->
+    <div class="welcome-container p-5 rounded-4" style="background: linear-gradient(135deg, #ffffff 0%, #f8f9ff 100%); border: none; box-shadow: 0 10px 30px rgba(78, 115, 223, 0.15);">
+        <div class="welcome-header text-center mb-5">
+            <h3 class="text-dark font-weight-bold mb-3" style="font-size: 1.8rem; letter-spacing: -0.5px;">
+                ¡Bienvenido/a al Sistema Psicológico!
+            </h3>
+            <p class="text-muted" style="font-size: 1.1rem;">Estimado/a profesional de la psicología</p>
+        </div>
+
+        <div class="welcome-content">
+            <p class="mb-4 text-center" style="font-size: 1.1rem; line-height: 1.6; color: #4a5568;">
+                Es un honor darle la bienvenida al <span class="text-primary font-weight-bold">Panel Especializado</span>, diseñado para optimizar su trabajo clínico y garantizar la mejor atención a nuestros beneficiarios.
+            </p>
+            
+            <div class="features-list mb-5">
+                <div class="row">
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-clipboard-list text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Gestión de entrevistas</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Organice y adapte el banco de preguntas según las necesidades de cada evaluación psicológica.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-chart-line text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Análisis de resultados</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Acceda a informes detallados y seguimiento del historial psicológico de los pacientes.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-lock text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Seguridad garantizada</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Sistema protegido con autenticación avanzada y estrictos controles de acceso.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 mb-4">
+                        <div class="feature-card p-4 h-100 rounded-3" style="background-color: #f8faff; border-left: 3px solid #4e73df;">
+                            <div class="d-flex align-items-center mb-2">
+                                <div class="icon-circle mr-3" style="width: 40px; height: 40px; background-color: #e6efff; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-user-shield text-primary"></i>
+                                </div>
+                                <h5 class="mb-0 text-dark">Confidencialidad</h5>
+                            </div>
+                            <p class="mb-0" style="color: #4a5568;">Protección absoluta de los datos sensibles de los pacientes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="important-notes p-4 mb-5 rounded-3" style="background: linear-gradient(135deg, #fff8f0 0%, #fff3e8 100%); border-left: 4px solid #ff9f43;">
+                <div class="d-flex align-items-center mb-3">
+                    <i class="fas fa-exclamation-circle mr-3" style="font-size: 1.5rem; color: #ff9f43;"></i>
+                    <h5 class="mb-0 text-dark">Aviso importante</h5>
+                </div>
+                <div class="pl-4">
+                    <div class="d-flex mb-2">
+                        <i class="fas fa-circle mr-2 mt-1" style="font-size: 0.5rem; color: #ff9f43;"></i>
+                        <p class="mb-0" style="color: #4a5568;">Este sistema es de uso exclusivo para personal autorizado del <strong>Ejército Bolivariano de Venezuela</strong></p>
+                    </div>
+                    <div class="d-flex">
+                        <i class="fas fa-circle mr-2 mt-1" style="font-size: 0.5rem; color: #ff9f43;"></i>
+                        <p class="mb-0" style="color: #4a5568;">Mantenga sus credenciales en un lugar seguro y cambie su contraseña periódicamente</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-message text-center p-4 rounded-3" style="background: linear-gradient(135deg, #4e73df 0%, #224abe 100%); color: white;">
+                <p class="mb-3" style="font-size: 1.1rem;">¡Gracias por su compromiso con la salud psicológica de nuestra institución!</p>
+                <div class="d-flex justify-content-center">
+                    <div class="mr-4">
+                        <i class="fas fa-shield-alt mr-2"></i>
+                        <span>Comandancia General del Ejército Bolivariano de Venezuela</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Contenido adicional del panel del psicólogo -->
 </div>
 
 <!-- Patient Dashboard -->

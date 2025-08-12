@@ -1,0 +1,181 @@
+DEBUG - 2025-08-12 14:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 14:50:24 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 14:50:24 --> Returning 2 questions
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 14:50:24 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 14:50:24 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 14:50:24 --> Returning 2 questions
+DEBUG - 2025-08-12 14:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 14:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 14:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 14:51:17 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-12 14:51:20 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-12 14:51:20 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-12 14:51:24 --> JWT token validated for user: admin@example.com
+DEBUG - 2025-08-12 14:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:00:18 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:00:18 --> Returning 2 questions
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:18 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:00:18 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:00:18 --> Returning 2 questions
+DEBUG - 2025-08-12 20:00:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Starting interview submission
+DEBUG - 2025-08-12 20:00:52 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] User data: stdClass Object
+(
+    [userId] => 2
+    [email] => elpoloxrodriguez@gmail.com
+    [role] => patient
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Raw input received: Array
+(
+    [answers] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1
+                    [answer] => 1
+                    [comments] => 
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 2
+                    [answer] => 
+                    [comments] => no me gustan
+                )
+
+        )
+
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Raw POST data: {"answers":[{"question_id":"1","answer":true,"comments":""},{"question_id":"2","answer":false,"comments":"no me gustan"}]}
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Database connection status: Connected
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Database name: psico_db
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Database config: {"hostname":"localhost","database":"psico_db","username":"***","DBDriver":"MySQLi","port":3306}
+DEBUG - 2025-08-12 20:00:52 --> Answers to process: Array
+(
+    [0] => Array
+        (
+            [question_id] => 1
+            [answer] => 1
+            [comments] => 
+        )
+
+    [1] => Array
+        (
+            [question_id] => 2
+            [answer] => 
+            [comments] => no me gustan
+        )
+
+)
+
+DEBUG - 2025-08-12 20:00:52 --> Processing 2 answers
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Starting database transaction
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Inserting interview record: {"patient_id":"2","interview_date":"2025-08-12 20:00:52"}
+DEBUG - 2025-08-12 20:00:52 --> [Answer 0] Processing answer: Array
+(
+    [question_id] => 1
+    [answer] => 1
+    [comments] => 
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [Answer 0] Attempting to insert: Array
+(
+    [interview_id] => 2
+    [question_id] => 1
+    [answer_text] => {"answer":true,"comments":""}
+    [created_at] => 2025-08-12 20:00:52
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] [A1] Successfully saved with ID: 3
+DEBUG - 2025-08-12 20:00:52 --> [Answer 1] Processing answer: Array
+(
+    [question_id] => 2
+    [answer] => 
+    [comments] => no me gustan
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [Answer 1] Attempting to insert: Array
+(
+    [interview_id] => 2
+    [question_id] => 2
+    [answer_text] => {"answer":false,"comments":"no me gustan"}
+    [created_at] => 2025-08-12 20:00:52
+)
+
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] [A2] Successfully saved with ID: 4
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Transaction committed successfully
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Successfully saved 2 out of 2 answers for interview ID: 2
+DEBUG - 2025-08-12 20:00:52 --> [REQ-689b9d747f75f] Interview submission completed successfully
+DEBUG - 2025-08-12 20:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:00:57 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:00:57 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:01:05 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:01:05 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:01:05 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:01:05 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:01:34 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:42 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:43 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:46 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:47 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:50 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:50 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:54 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:54 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:57 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:01:57 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:02:05 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:02:05 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:02:06 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:02:06 --> JWT token validated for user: romaluba@gmail.com
+DEBUG - 2025-08-12 20:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:02:18 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:02:18 --> Returning 2 questions
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:18 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:02:18 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:02:18 --> Returning 2 questions
+DEBUG - 2025-08-12 20:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:02:40 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:02:40 --> Returning 2 questions
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> JWT token validated for user: elpoloxrodriguez@gmail.com
+DEBUG - 2025-08-12 20:02:40 --> Question 1 has areatext enabled
+DEBUG - 2025-08-12 20:02:40 --> Question 2 has areatext enabled
+DEBUG - 2025-08-12 20:02:40 --> Returning 2 questions
+DEBUG - 2025-08-12 20:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-08-12 20:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
